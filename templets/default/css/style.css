@@ -1,0 +1,17 @@
+*{
+	padding: 0;
+	margin: 0;
+	border: none;
+	text-decoration: none;
+	list-style: none;
+	font-family: SimHei;
+}
+img{
+	display: block;
+}
+a{cursor: pointer;}
+body{
+	max-width: 750px;
+	margin: 0 auto;
+	font-size:24px;
+}
